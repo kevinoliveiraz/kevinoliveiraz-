@@ -1,21 +1,26 @@
-# Olá, Sou Kevin Cardoso
+# Olá, eu sou Kevin Cardoso
 
-Desenvolvedor Web 
+## Suporte TI • Automação • Hardware • Linux • docker
 
-O foco do meu trabalho é na criação de soluções práticas para organização, gestão e otimização de tempo. Desenvolvo ferramentas que simplificam processos, reduzem atrito operacional e aumentam a produtividade no dia a dia.
+Sou profissional de Tecnologia da Informação com experiência em suporte técnico, administração de processos e desenvolvimento de soluções para aumentar produtividade e eficiência operacional.
 
-Meu objetivo é transformar complexidade em sistemas claros, visuais e eficientes, unindo lógica, design e automação para melhorar processos e tomadas de decisão.
+Tenho interesse em infraestrutura, Linux, automação, hardware e desenvolvimento de ferramentas que simplificam tarefas do dia a dia. Gosto de aprender na prática, documentar processos e transformar conhecimento técnico em soluções acessíveis.
 
 ---
 
-###  Projeto em destaque: 
+## Áreas de Interesse
+
+- Suporte Técnico e Help Desk
+- Linux e Infraestrutura
+- Docker e Homelab
+- Automação de Processos
+- Hardware e Manutenção
+- Desenvolvimento Web
+- Documentação Técnica
+
+---
 
 
-* **[MeuPC](https://kevincardoso3567-maker.github.io/MeuPC/)** é uma plataforma web em desenvolvimento que centraliza conteúdos práticos sobre o uso do computador e do Windows, como atalhos de teclado, comandos do Windows + R e dicas para aumentar a produtividade no dia a dia.  
-O objetivo é permitir consultas rápidas e aprendizado contínuo, tornando o uso do PC mais eficiente para qualquer nível de usuário.
-
-**Tecnologias:** HTML, CSS, JavaScript  
-**Status:** Em desenvolvimento (v2.0)
 
 
 
@@ -30,10 +35,9 @@ O objetivo é permitir consultas rápidas e aprendizado contínuo, tornando o us
 
 ---
 
-  ### Ferramentas
 
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,figma,vscode&theme=dark" alt="Tecnologias" />
-  </a>
-</div>
+### Ferramentas
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,windows,docker,bash,github,vscode,html,css,js,python&theme=dark" alt="Tecnologias" />
+</p>
