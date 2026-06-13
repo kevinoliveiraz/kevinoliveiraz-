@@ -30,7 +30,7 @@ Tenho interesse em infraestrutura, Linux, automação, hardware e desenvolviment
 
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kevincardoso3567-maker&theme=dracula&hide_border=true&area=true" width="100%" alt="Gráfico de Atividade" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kevinoliveiraz&theme=dracula&hide_border=true&area=true" width="100%" alt="Gráfico de Atividade" />
 </div>
 
 ---
