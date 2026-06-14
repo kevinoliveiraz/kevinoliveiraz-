@@ -39,5 +39,5 @@ Tenho interesse em infraestrutura, Linux, automação, hardware e desenvolviment
 ### Ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,windows,docker,bash,github,vscode,html,css,js,python&theme=dark" alt="Tecnologias" />
+  <img src="https://skillicons.dev/icons?i=linux,windows,Android,docker,bash,github,vscode,html,css,js,python&theme=dark" alt="Tecnologias" />
 </p>
