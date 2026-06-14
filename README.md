@@ -1,6 +1,6 @@
 # Olá, eu sou Kevin Cardoso
 
-## Suporte TI • Automação • Hardware • Linux • docker
+## Suporte TI • Automação • Hardware • Linux • docker • Android
 
 Sou profissional de Tecnologia da Informação com experiência em suporte técnico, administração de processos e desenvolvimento de soluções para aumentar produtividade e eficiência operacional.
 
