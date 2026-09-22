@@ -51,9 +51,7 @@ Automação desenvolvida com JavaScript para o google sheets para calcular prazo
 
 Plataforma de cursos com autenticação, controle de progresso e liberação sequencial de aulas.
 
-### Decifra
 
-Projeto criado para ajudar pessoas a entender hardware, software e diagnóstico de computadores de forma acessível.
 
 ---
 
