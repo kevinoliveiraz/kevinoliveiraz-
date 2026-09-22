@@ -1,6 +1,6 @@
 # Olá, eu sou Kevin Cardoso
 
-## Desenvolvimento Web • Automação • Infraestrutura 
+## Desenvolvedor Front-end • Automação • Infraestrutura 
 
 Estou construindo minha carreira em desenvolvimento e automação, unindo programação, visão de processos e conhecimento prático sobre o ambiente onde as aplicações funcionam.
 
